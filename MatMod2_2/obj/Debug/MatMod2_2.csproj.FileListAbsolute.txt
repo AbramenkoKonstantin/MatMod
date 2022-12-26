@@ -1,0 +1,8 @@
+E:\KemSU\VisualStudio\Repos\MatMod\lab2\MatMod2_2\MatMod2_2\obj\Debug\MatMod2_2.csproj.AssemblyReference.cache
+E:\KemSU\VisualStudio\Repos\MatMod\lab2\MatMod2_2\MatMod2_2\obj\Debug\MatMod2_2.csproj.SuggestedBindingRedirects.cache
+E:\KemSU\VisualStudio\Repos\MatMod\lab2\MatMod2_2\MatMod2_2\obj\Debug\MatMod2_2.csproj.CoreCompileInputs.cache
+E:\KemSU\VisualStudio\Repos\MatMod\lab2\MatMod2_2\MatMod2_2\bin\Debug\MatMod2_2.exe.config
+E:\KemSU\VisualStudio\Repos\MatMod\lab2\MatMod2_2\MatMod2_2\bin\Debug\MatMod2_2.exe
+E:\KemSU\VisualStudio\Repos\MatMod\lab2\MatMod2_2\MatMod2_2\bin\Debug\MatMod2_2.pdb
+E:\KemSU\VisualStudio\Repos\MatMod\lab2\MatMod2_2\MatMod2_2\obj\Debug\MatMod2_2.exe
+E:\KemSU\VisualStudio\Repos\MatMod\lab2\MatMod2_2\MatMod2_2\obj\Debug\MatMod2_2.pdb
